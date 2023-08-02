@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "name": "Lorem ipsum dolor",
+      "price": 8.99,
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 1,
+      "url": "https://via.placeholder.com/400/92c952"
+    },
+    {
+      "id": 2,
+      "name": "Lorem ipsum dolor",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "price": 100.99,
+      "url": "https://via.placeholder.com/400/771796"
+    },
+    {
+      "name": "Lorem ipsum dolor",
+      "price": 12.5,
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 3,
+      "url": "https://via.placeholder.com/400/24f355"
+    },
+    {
+      "name": "Lorem ipsum dolor",
+      "price": 14.5,
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 4,
+      "url": "https://via.placeholder.com/400/f66b97"
+    },
+    {
+      "name": "Lorem ipsum dolor",
+      "price": 51.5,
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 5,
+      "url": "https://via.placeholder.com/400/56a8c2"
+    },
+    {
+      "name": "Lorem ipsum dolor",
+      "price": 7.5,
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 6,
+      "url": "https://via.placeholder.com/400/b0f7cc"
+    },
+    {
+      "name": "Lorem ipsum dolor",
+      "price": "700",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 7,
+      "url": "https://via.placeholder.com/400/54176f"
+    },
+    {
+      "name": "Lorem ipsum dolor",
+      "price": 1400.5,
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 8,
+      "url": "https://via.placeholder.com/400/51aa97"
+    },
+    {
+      "name": "Lorem ipsum dolor",
+      "price": 56.5,
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 9,
+      "url": "https://via.placeholder.com/400/810b14"
+    },
+    {
+      "name": "Lorem ipsum dolor",
+      "price": 17.5,
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "id": 10,
+      "url": "https://via.placeholder.com/400/f66b97"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "url": "https://via.placeholder.com/400/92c952",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "id": 2,
+      "title": "reprehenderit est deserunt velit ipsam",
+      "url": "https://via.placeholder.com/400/771796",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    },
+    {
+      "id": 3,
+      "title": "officia porro iure quia iusto qui ipsa ut modi",
+      "url": "https://via.placeholder.com/400/24f355",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "id": 4,
+      "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+      "url": "https://via.placeholder.com/400/d32776",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    },
+    {
+      "id": 5,
+      "title": "natus nisi omnis corporis facere molestiae rerum in",
+      "url": "https://via.placeholder.com/400/f66b97",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+      "id": 6,
+      "title": "accusamus ea aliquid et amet sequi nemo",
+      "url": "https://via.placeholder.com/400/56a8c2",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+      "id": 7,
+      "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+      "url": "https://via.placeholder.com/400/b0f7cc",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+      "id": 8,
+      "title": "aut porro officiis laborum odit ea laudantium corporis",
+      "url": "https://via.placeholder.com/400/54176f",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+      "id": 9,
+      "title": "qui eius qui autem sed",
+      "url": "https://via.placeholder.com/400/51aa97",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    },
+    {
+      "id": 10,
+      "title": "beatae et provident et ut vel",
+      "url": "https://via.placeholder.com/400/810b14",
+      "description": "Its is a long established fact that a reader will be distracted.",
+      "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+    }
+  ]
+}
