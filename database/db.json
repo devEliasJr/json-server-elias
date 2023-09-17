@@ -1,4 +1,76 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "password": "123",
+      "email": "john@email.com",
+      "image": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "password": "123",
+      "email": "jane@email.com",
+      "image": "https://via.placeholder.com/150/771796"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "password": "123",
+      "email": "bob@email.com",
+      "image": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "id": 4,
+      "name": "Alice Brown",
+      "password": "123",
+      "email": "alice@email.com",
+      "image": "https://via.placeholder.com/150/c92c75"
+    },
+    {
+      "id": 5,
+      "name": "Eva Wilson",
+      "password": "123",
+      "email": "eva@email.com",
+      "image": "https://via.placeholder.com/150/17bfdf"
+    },
+    {
+      "id": 6,
+      "name": "Michael Lee",
+      "password": "123",
+      "email": "michael@email.com",
+      "image": "https://via.placeholder.com/150/c8ad68"
+    },
+    {
+      "id": 7,
+      "name": "Linda Anderson",
+      "password": "123",
+      "email": "linda@email.com",
+      "image": "https://via.placeholder.com/150/2c77f4"
+    },
+    {
+      "id": 8,
+      "name": "William Clark",
+      "password": "123",
+      "email": "william@email.com",
+      "image": "https://via.placeholder.com/150/7d2c0e"
+    },
+    {
+      "id": 9,
+      "name": "Olivia White",
+      "password": "123",
+      "email": "olivia@email.com",
+      "image": "https://via.placeholder.com/150/e7a2a4"
+    },
+    {
+      "id": 10,
+      "name": "David Hall",
+      "password": "123",
+      "email": "david@email.com",
+      "image": "https://via.placeholder.com/150/74596c"
+    }
+  ],
   "products": [
     {
       "id": 1,
@@ -69,6 +141,12 @@
       "description": "Its is a long established fact that a reader will be distracted.",
       "id": 10,
       "url": "https://via.placeholder.com/400/f66b97"
+    },
+    {
+      "id": 0.6079042655339209,
+      "name": "Teste",
+      "url": "https://via.placeholder.com/400/771796",
+      "description": "Description"
     }
   ],
   "posts": [
