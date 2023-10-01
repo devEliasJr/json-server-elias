@@ -5,70 +5,80 @@
       "name": "John Doe",
       "password": "123",
       "email": "john@email.com",
-      "image": "https://via.placeholder.com/150/92c952"
+      "image": "https://via.placeholder.com/150/92c952",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 2,
       "name": "Jane Smith",
       "password": "123",
       "email": "jane@email.com",
-      "image": "https://via.placeholder.com/150/771796"
+      "image": "https://via.placeholder.com/150/771796",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 3,
       "name": "Bob Johnson",
       "password": "123",
       "email": "bob@email.com",
-      "image": "https://via.placeholder.com/150/24f355"
+      "image": "https://via.placeholder.com/150/24f355",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 4,
       "name": "Alice Brown",
       "password": "123",
       "email": "alice@email.com",
-      "image": "https://via.placeholder.com/150/c92c75"
+      "image": "https://via.placeholder.com/150/c92c75",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 5,
       "name": "Eva Wilson",
       "password": "123",
       "email": "eva@email.com",
-      "image": "https://via.placeholder.com/150/17bfdf"
+      "image": "https://via.placeholder.com/150/17bfdf",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 6,
       "name": "Michael Lee",
       "password": "123",
       "email": "michael@email.com",
-      "image": "https://via.placeholder.com/150/c8ad68"
+      "image": "https://via.placeholder.com/150/c8ad68",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 7,
       "name": "Linda Anderson",
       "password": "123",
       "email": "linda@email.com",
-      "image": "https://via.placeholder.com/150/2c77f4"
+      "image": "https://via.placeholder.com/150/2c77f4",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 8,
       "name": "William Clark",
       "password": "123",
       "email": "william@email.com",
-      "image": "https://via.placeholder.com/150/7d2c0e"
+      "image": "https://via.placeholder.com/150/7d2c0e",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 9,
       "name": "Olivia White",
       "password": "123",
       "email": "olivia@email.com",
-      "image": "https://via.placeholder.com/150/e7a2a4"
+      "image": "https://via.placeholder.com/150/e7a2a4",
+      "avatar": "https://via.placeholder.com/50/92c952"
     },
     {
       "id": 10,
       "name": "David Hall",
       "password": "123",
       "email": "david@email.com",
-      "image": "https://via.placeholder.com/150/74596c"
+      "image": "https://via.placeholder.com/150/74596c",
+      "avatar": "https://via.placeholder.com/50/92c952"
     }
   ],
   "products": [
