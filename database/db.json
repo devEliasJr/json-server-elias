@@ -328,5 +328,97 @@
       "publication_year": 2020,
       "isbn": "978-1-2345-6789-9"
     }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Galactic Odyssey",
+      "director": "John Smith",
+      "genre": "Sci-Fi",
+      "release_year": 2019,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 7.5
+    },
+    {
+      "id": 2,
+      "title": "In the Shadows",
+      "director": "Emma Johnson",
+      "genre": "Thriller",
+      "release_year": 2021,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 8.0
+    },
+    {
+      "id": 3,
+      "title": "Lost in Time",
+      "director": "Michael Brown",
+      "genre": "Adventure",
+      "release_year": 2020,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 6.9
+    },
+    {
+      "id": 4,
+      "title": "Eternal Love",
+      "director": "Sophia White",
+      "genre": "Romance",
+      "release_year": 2018,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 7.8
+    },
+    {
+      "id": 5,
+      "title": "The Secret Garden",
+      "director": "Daniel Taylor",
+      "genre": "Family",
+      "release_year": 2022,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 8.5
+    },
+    {
+      "id": 6,
+      "title": "The Art of Deception",
+      "director": "Olivia Davis",
+      "genre": "Action",
+      "release_year": 2017,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 7.2
+    },
+    {
+      "id": 7,
+      "title": "Whispers in the Wind",
+      "director": "Christopher Wilson",
+      "genre": "Drama",
+      "release_year": 2016,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 7.0
+    },
+    {
+      "id": 8,
+      "title": "The Enchanted Forest",
+      "director": "Emily Garcia",
+      "genre": "Fantasy",
+      "release_year": 2023,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 8.7
+    },
+    {
+      "id": 9,
+      "title": "A Journey Through Time",
+      "director": "David Lee",
+      "genre": "Sci-Fi",
+      "release_year": 2015,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 7.3
+    },
+    {
+      "id": 10,
+      "title": "The Last Stand",
+      "director": "Robert Smith",
+      "genre": "Action",
+      "release_year": 2020,
+      "banner": "https://via.placeholder.com/300x450.png",
+      "imdb_rating": 8.2
+    }
   ]
 }
