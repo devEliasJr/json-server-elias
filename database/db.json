@@ -246,5 +246,87 @@
       "description": "Its is a long established fact that a reader will be distracted.",
       "thumbnailUrl": "https://via.placeholder.com/150/810b14"
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Mysterious Cipher",
+      "author": "Alice Johnson",
+      "genre": "Mystery",
+      "publication_year": 2018,
+      "isbn": "978-1-2345-6789-0"
+    },
+    {
+      "id": 2,
+      "title": "Echoes of Eternity",
+      "author": "Robert Smith",
+      "genre": "Fantasy",
+      "publication_year": 2020,
+      "isbn": "978-1-2345-6789-1"
+    },
+    {
+      "id": 3,
+      "title": "Beyond the Horizon",
+      "author": "Emily White",
+      "genre": "Science Fiction",
+      "publication_year": 2019,
+      "isbn": "978-1-2345-6789-2"
+    },
+    {
+      "id": 4,
+      "title": "Whispers in the Wind",
+      "author": "Daniel Brown",
+      "genre": "Thriller",
+      "publication_year": 2021,
+      "isbn": "978-1-2345-6789-3"
+    },
+    {
+      "id": 5,
+      "title": "Lost in Time",
+      "author": "Sophia Miller",
+      "genre": "Historical Fiction",
+      "publication_year": 2017,
+      "isbn": "978-1-2345-6789-4"
+    },
+    {
+      "id": 6,
+      "title": "The Enchanted Garden",
+      "author": "Michael Taylor",
+      "genre": "Fantasy",
+      "publication_year": 2022,
+      "isbn": "978-1-2345-6789-5"
+    },
+    {
+      "id": 7,
+      "title": "Shadows of the Past",
+      "author": "Olivia Davis",
+      "genre": "Mystery",
+      "publication_year": 2016,
+      "isbn": "978-1-2345-6789-6"
+    },
+    {
+      "id": 8,
+      "title": "Into the Abyss",
+      "author": "Christopher Wilson",
+      "genre": "Horror",
+      "publication_year": 2023,
+      "isbn": "978-1-2345-6789-7"
+    },
+    {
+      "id": 9,
+      "title": "The Cosmic Voyage",
+      "author": "Emma Garcia",
+      "genre": "Science Fiction",
+      "publication_year": 2015,
+      "isbn": "978-1-2345-6789-8"
+    },
+    {
+      "id": 10,
+      "title": "A Dance with Shadows",
+      "author": "David Lee",
+      "genre": "Fantasy",
+      "publication_year": 2020,
+      "isbn": "978-1-2345-6789-9"
+    }
   ]
 }
